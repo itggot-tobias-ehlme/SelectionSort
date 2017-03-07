@@ -1,4 +1,4 @@
-def selection(unsorted) #N är den osorterade listan.
+def selection(unsorted) #Är den osorterade listan.
   min = 0 #Här lagras det minsta nummret.
   i = 0 #I står för Index.
   i2 = 0 #Är till för de osorterade numren
